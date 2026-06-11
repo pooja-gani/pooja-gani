@@ -29,46 +29,48 @@ As a Data Scientist, I apply advanced deep learning architectures, multi-agent f
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-### Real-Time & Distributed Systems  
-<div align="center">  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_spark-icon.svg" alt="Spark" height="50" /></a>  
-<a href="https://flink.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flink.png" alt="Flink" height="50" /></a>  
-<a href="https://pulsar.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-apache-pulsar-is-an-open-source-distributed-pub-sub-messaging-system-logo-shadow-tal-revivo.png" alt="Pulsar" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>
+<table>
+<tr>
+<td valign="top" width="33%">
 
-</td><td valign="top" width="33%">
+### 🎛️ Real-Time & Distributed
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)  
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6522B?style=flat-square&logo=apache-flink&logoColor=white)  
+![Apache Pulsar](https://img.shields.io/badge/Apache_Pulsar-044F6A?style=flat-square&logo=apache-pulsar&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)  
 
-### ML, GenAI & Databases  
-<div align="center">  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://clickhouse.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/96/clickhouse.png" alt="ClickHouse" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://min.io/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluent/96/amazon-s3.png" alt="MinIO Object Storage" height="50" /></a>  
-</div>
+</td>
+<td valign="top" width="33%">
 
-</td><td valign="top" width="33%">
+### 🧠 ML, GenAI & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)  
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=gitgraph&logoColor=white)  
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FDC530?style=flat-square&logo=clickhouse&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
+![MinIO](https://img.shields.io/badge/MinIO-0091EA?style=flat-square&logo=minio&logoColor=white)  
 
-### DevOps, Web & Observability  
-<div align="center">  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/96/fastapi.png" alt="FastAPI" height="50" /></a>  
-<a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/96/prometheus.png" alt="Prometheus" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-</div>
+</td>
+<td valign="top" width="33%">
 
-</td></tr></table>  
+### 🛠️ DevOps & Observability
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522B?style=flat-square&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)  
+
+</td>
+</tr>
+</table>  
 
 <br/>
