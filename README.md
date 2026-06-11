@@ -1,4 +1,4 @@
-## Hey 👋, I'm Pooja Gani!  
+## Hey, I'm Pooja Gani!  
   
 <a href="https://github.com/pooja-gani" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
@@ -8,8 +8,6 @@
 </a>
 
 
-
-### Glad to see you here!  
 I’m a passionate Junior Data Scientist operating at the intersection of machine learning, distributed big data architectures, and real-time streaming pipelines.
 
 As a Data Engineer, I focus on building and maintaining high-throughput data pipelines, optimizing distributed computing tasks, and managing complex streaming infrastructures. I enjoy designing systems that are lightweight, powerful, and highly synchronized—ensuring that massive datasets flow efficiently from raw streams into production-ready environments.
